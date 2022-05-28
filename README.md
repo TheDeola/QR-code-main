@@ -28,8 +28,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://qrcode-main.netlify.app/)
+- Solution URL: (https://github.com/TheDeola/QR-code-main)
+- Live Site URL: (https://qrcode-main.netlify.app/)
 
 ## My process
 
